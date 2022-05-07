@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @modernLifeRocko *just a math town boy, living in a programming world*
 - 👀 I’m interested in the mathematical theory of computation, data science, and good old anime.
-- 🌱 I’m currently learning Lean, SQL, and web development.
+- 🌱 I’m currently learning SQL, machine learnig and web development.
 - 📫 How to reach me: linkedin.com/in/andres-fontalvo
 
 <!---
